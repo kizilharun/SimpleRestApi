@@ -1,0 +1,19 @@
+{
+  "name": "simplerestapi",
+  "version": "1.0.0",
+  "description": "simple rest api project with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "kizilharun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
